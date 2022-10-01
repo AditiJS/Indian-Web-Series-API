@@ -1996,5 +1996,23 @@
     "episodeCount": 30,
     "seasons": 3,
     "releaseDate": "15 October 2020"
+},
+ {
+  "id": 190,
+  "name": "Samantar",
+  "rating": 8.4,
+  "description": "Samantar is a story about a young man Kumar Mahajan, whose life changes after he goes on journey to find, Sudarshan Chakrapani, a man who shares the same destiny with him. The life that Kumar is living is the life that Chakrapani has already lived.",
+  "category": ["Thriller"],
+  "platform": "MXPlayer",
+  "casting": {
+      "actors": [
+          "Swapnil Joshi"," Tejaswini Pandit"
+      ],
+      "director": ["Satish Rajwade"]
+  },
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjVjOThlNTAtMzEwOC00YjE3LTk4M2UtNjkwNjc2ZjIyYzg5XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_.jpg",
+  "episodeCount": 20,
+  "seasons": 2,
+  "releaseDate": "13 March 2020"
 }
 ]
